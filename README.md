@@ -339,6 +339,4 @@ Built with Next.js, TypeScript, Tailwind CSS, and PokéAPI.
 
 **Data Source:** [PokéAPI](https://pokeapi.co/)
 
-**Framework Documentation:** [Next.js Documentation](https://nextjs.org/docs)
-
-**Styling Documentation:** [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+<img width="1917" height="1078" alt="Screenshot 2026-11-12 175936" src="https://github.com/user-attachments/assets/25b539a2-96f0-4e50-95b6-d6e92d5dce37" />
