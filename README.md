@@ -340,3 +340,9 @@ Built with Next.js, TypeScript, Tailwind CSS, and PokéAPI.
 **Data Source:** [PokéAPI](https://pokeapi.co/)
 
 <img width="1917" height="1078" alt="Screenshot 2026-11-12 175936" src="https://github.com/user-attachments/assets/25b539a2-96f0-4e50-95b6-d6e92d5dce37" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-12 175915" src="https://github.com/user-attachments/assets/f1f510eb-bc4d-4484-b559-80d6b282e24d" />
+<img width="468" height="830" alt="Screenshot 2026-11-12 175811" src="https://github.com/user-attachments/assets/4c0898af-6b7c-4feb-ae4d-298057bcef15" />
+<img width="467" height="832" alt="Screenshot 2026-11-12 175750" src="https://github.com/user-attachments/assets/640ae663-9090-461f-9386-8bdce4e6af0e" />
+
+
+
